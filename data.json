@@ -1,0 +1,67 @@
+{
+
+  "RR":
+  {
+    "Name":"M.P.S.Ramayya",
+    "Email":"ramayyarams22@gmail.com",
+    "mobile":"7799259319"
+  },
+  "career":{
+    "info":"As i aspire to reach highest peak in mylife,by satisfying the needs of management with great zeal and hardwork."
+  },
+  "education":[
+    {
+       "degree":"B.Tech", "institute":"Avanthi Institute of Engg And tech.", "date":"2015-19","per":"74%"
+     },
+       {
+         "degree":"Diploma", "institute":"Govt. Polytechnic Akp", "date":"2013-15","per":"80.42%"
+       },
+       {
+         "degree":"10", "institute":"SSVV", "date":"2013","per":"83%"
+    }
+],
+
+"skills":[
+
+  {
+
+    "title":" Programming Language",
+
+    "info":["C","C++","Java","Python","R"]
+
+  },
+  {
+
+    "title":"Databases",
+
+"info":["MongoDb","MySql","Oracle"]
+
+},
+
+{
+
+  "title":"Web Technologies",
+
+"info":["HTML5","CSS3","JavaScript"]
+
+},
+
+{
+
+"title":"Libraries and Frameworks",
+
+"info":["ionic","Angular","Expressjs",".Net"]
+
+},
+
+{
+
+"title":"Operating systems",
+
+"info":["Linux","Windows","Dos"]
+
+}
+
+]
+
+}
